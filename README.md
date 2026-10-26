@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm AARUSH 👋
 
+-💻Aspiring Software and Hardware Developer <br>
+-🌱Currently learning Programming language (c/c++) and Microcontrollers (Arduino / ESP32) <br>
+-🚀 Building cool projects <br>
+-📫 Reach me at chandraaarush02@gmail.com
 <!--
 **byte-aarush/byte-aarush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
